@@ -1,0 +1,9 @@
+c:\users\sd\documents\visual studio 2013\Projects\Travelmanegementsystem\Travelmanegementsystem\bin\Debug\Travelmanegementsystem.exe.config
+c:\users\sd\documents\visual studio 2013\Projects\Travelmanegementsystem\Travelmanegementsystem\bin\Debug\Travelmanegementsystem.exe
+c:\users\sd\documents\visual studio 2013\Projects\Travelmanegementsystem\Travelmanegementsystem\bin\Debug\Travelmanegementsystem.pdb
+c:\users\sd\documents\visual studio 2013\Projects\Travelmanegementsystem\Travelmanegementsystem\obj\Debug\Travelmanegementsystem.csprojResolveAssemblyReference.cache
+c:\users\sd\documents\visual studio 2013\Projects\Travelmanegementsystem\Travelmanegementsystem\obj\Debug\Travelmanegementsystem.Form1.resources
+c:\users\sd\documents\visual studio 2013\Projects\Travelmanegementsystem\Travelmanegementsystem\obj\Debug\Travelmanegementsystem.Properties.Resources.resources
+c:\users\sd\documents\visual studio 2013\Projects\Travelmanegementsystem\Travelmanegementsystem\obj\Debug\Travelmanegementsystem.csproj.GenerateResource.Cache
+c:\users\sd\documents\visual studio 2013\Projects\Travelmanegementsystem\Travelmanegementsystem\obj\Debug\Travelmanegementsystem.exe
+c:\users\sd\documents\visual studio 2013\Projects\Travelmanegementsystem\Travelmanegementsystem\obj\Debug\Travelmanegementsystem.pdb
